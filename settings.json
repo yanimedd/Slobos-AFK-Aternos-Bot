@@ -8,7 +8,7 @@
   "server": {
     "ip": "frservermc.aternos.me",
     "port": 42493,
-    "version": "1.12.1",
+    "version": "",
     "try-creative": false
   },
   "position": {
